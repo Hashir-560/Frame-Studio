@@ -1,0 +1,6 @@
+{
+  "name": "FRAMESTUDIO",
+  "description": "Browser-based non-linear video editor with multi-track timeline, color studio, motion text, audio mixing, and local WebM/MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
